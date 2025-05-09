@@ -1,0 +1,8 @@
+{
+    "name": "cafe",
+    "title": "Laura",
+    "description": "cafe Inventory System",
+    "version": "0.0.1",
+    "license": "MIT",
+    "depends_on": ["frappe"]
+}
